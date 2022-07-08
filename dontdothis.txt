@@ -1,0 +1,9 @@
+my_age = 14
+half_my_age = 14/2
+greeting = "Hello!"
+greeting_with_name = "greeting + name"                    
+name = "Kendrew"
+
+message = greeting_with_name + my_age + half_my_age 
+
+print("message")
