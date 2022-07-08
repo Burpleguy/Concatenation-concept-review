@@ -1,1 +1,1 @@
-python math concepts
+Python concepts including math and strings
